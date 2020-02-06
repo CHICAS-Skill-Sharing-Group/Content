@@ -13,7 +13,7 @@ The HEC can be accessed through your terminal (Mac users) using the bash coding 
 ```ssh -X your_lancaster_username@wayland.hec.lancaster.ac.uk```
 
 Putting files onto the HEC
-```rsync --progress --partial -avz /Users/JoeBloggs/Documents/foldername username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/``` - upload 'foldername' onto your storage space on the HEC
+```rsync --progress --partial -avz /Users/JoeBloggs/Documents/foldername username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/``` - upload 'foldername' onto your storage space on the HEC\
 
 Downloading files from the HEC\
 ```rsync --progress --partial -avz username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/hecfolder /Users/JoeBloggs/Documents/foldername``` - download 'hecfolder' into 'foldername' on your computer
