@@ -18,19 +18,19 @@ Please add any topics you think would be useful below by directly editing this p
 - Using the HEC
   - Mount HEC on computer
 - Good practice in R
-+ Projects & version control
-+ Coding
-+ Reproducible workflow with R
+  - Projects & version control
+  - Coding
+  - Reproducible workflow with R
 - Exploratory analysis
-Visualizing data
-Plotting binary outcome data against continuous variables
-Summarize data
-Manipulating spatial data (maybe update Barry’s cheatsheet with sf?)
-Transforming data (when do you do it, and why?)
-Generalized additive models
-Using splines
-Linear piecewise (broken stick)
-Polynomial
+  - Visualizing data
+  - Plotting binary outcome data against continuous variables
+  -Summarising data
+  - Manipulating spatial data (maybe update Barry’s cheatsheet with sf?)
+  - Transforming data (when do you do it, and why?)
+  - Generalized additive models
+  - Using splines
+    - Linear piecewise (broken stick)
+    - Polynomial
 Basic modelling
 Linear models
 Generalized linear models
