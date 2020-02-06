@@ -17,6 +17,7 @@ Please leave comments, criticisms and ideas about any aspects of the project (ai
 Please add any topics you think would be useful below by directly editing this page - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data. Please feel free to add topics to the list even if you don't wish to complete them. This way someone else can see all suggested and unanswered topics when they are choosing their next contribution.
 
 - [Using GitHub](https://github.com/CHICAS-Skill-Sharing-Group/Content/tree/master/Using-github)
+  - [How to contribute content](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/creating-content.md)
   - [Fork, commit and push](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/Fork-commit-push.md)
 - Using the HEC
   - Key commands in bash
