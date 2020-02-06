@@ -16,7 +16,7 @@ Please add any topics you think would be useful below by directly editing this p
 
 - Using Git/GitHub
 - Using the HEC
-+ Mount HEC on computer
+  - Mount HEC on computer
 - Good practice in R
 + Projects & version control
 + Coding
