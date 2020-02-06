@@ -6,21 +6,25 @@ To harness the collective knowledge and experience of CHICAS members on a wide r
 ## The writing process
 Those interested in contributing can choose an existing topic or subsection or add a new page for a new topic of their choice. Each summary should be as concise and clear as possible, taking the reader through key steps and any tricks or tools you use. If required, this can then be followed by an iterative and collaborative peer discussion process with the section being discussed in meetings or through comments made online. Additional suggestions or alternative approaches can then be included.
 
-When pre-existing resources meet the criteria for inclusion, a new topic page should still be created and a link should be inserted on this page to guide the reader to the resource(s). If multiple resources are available, it would be useful for an introductory sentence or paragraph to be written to clearly explain their value to the reader.
+## Contributing to this project
+- Steps for contributing a new topic can be found here
+- When pre-existing resources meet the criteria for inclusion, a new topic page should still be created and a link should be inserted on this page to guide the reader to the resource(s). If multiple resources are available, it would be useful for an introductory sentence or paragraph to be written to clearly explain their value to the reader.
 
 ## Feedback/ideas
 Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) and any topics that you feel would be useful to include, no matter how basic it may seem. You can do this by adding an issue using the 'Issues' tab. 
 
 ## Topics
-Please add any topics you think would be useful below by directly editing this page - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data. Please feel free to add topics to the list even if you don't wish to complete them. This way someone else can see all suggested and unanswered topics when they are choosing their next contribution.
+Please add any topics you think would be useful below by directly editing this page - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data. Please feel free to add topics to the list even if you don't wish to complete them. This way someone else can see all suggested and unanswered topics when they are choosing their next contribution. 
 
-- Using Git/GitHub
+- Using GitHub
+  - Fork, commit and push
 - Using the HEC
+  - Key commands in bash
   - Mount HEC on computer
 - Good practice in R
   - Projects & version control
-  - Coding
   - Reproducible workflow with R
+  - Coding
   - Making figures in R
     - Outputting in high resolution (for journals)
     - Maps
@@ -41,6 +45,10 @@ Please add any topics you think would be useful below by directly editing this p
     - Model selection
       - Diagnostic checks
       - Criteria for model fitting
+      - Covariate selection algorithms
+        - Forward/backward selection
+        - Lasso
+      - R-squared
       - Criteria for prediction (RMSE,...)
       - Information Criterion (AIC, DIC, BIC)
     - Model assumptions & checking them
@@ -49,7 +57,7 @@ Please add any topics you think would be useful below by directly editing this p
   - Linear mixed effect models
   - Generalized linear mixed effect models 
 - Analysis of spatial data
-  - Geostatistical data (do we include an additional Bayesian Hierarchical model section?)
+  - Geostatistical data
     - Exploratory analysis
     - Modelling fitting
     - Prediction
@@ -70,8 +78,8 @@ Please add any topics you think would be useful below by directly editing this p
 - Modelling zero-inflated data
 - Bootstrapping
   - Explanation of the concept
-  - Non-parametric (when to do, how and examples)
-  - Parametric (when to do, how and examples)
+  - Non-parametric
+  - Parametric
 - Sample size calculations
 - Bayesian Inference in Stan
 - MCMC
