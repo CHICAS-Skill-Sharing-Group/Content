@@ -25,8 +25,8 @@ Downloading files from the HEC\
 ```qsub -N taskname 001-Rcode.txt``` - submit a single job with job id 'taskname'\
 ```qsub -t 1-10 -N tasks 001-Rcode.txt``` - submit a task array of 10 tasks with job id 'taskname'
 
-```qstat``` - status of submitted jobs
-```qdel jobID``` - delete job with id = jobID
+```qstat``` - status of submitted jobs\
+```qdel jobID``` - delete job with id = jobID\
 ```panquota``` - check the amount of memory you have used/have available on the HEC
 
 ## Mounting the HEC on your computer
