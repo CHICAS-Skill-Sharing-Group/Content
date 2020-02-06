@@ -21,6 +21,10 @@ Please add any topics you think would be useful below by directly editing this p
   - Projects & version control
   - Coding
   - Reproducible workflow with R
+  - Making figures in R
+    - Outputting in high resolution (for journals)
+    - Maps
+    - Colour schemes
 - Exploratory analysis
   - Visualizing data
   - Plotting binary outcome data against continuous variables
@@ -31,70 +35,69 @@ Please add any topics you think would be useful below by directly editing this p
   - Using splines
     - Linear piecewise (broken stick)
     - Polynomial
-Basic modelling
-Linear models
-Generalized linear models
-Model selection
-Diagnostic checking (e.g. different residuals for different GLM distributions)
-Criteria for model fitting
-Criteria for prediction (RMSE,...)
-R-square
-Information Criterion (AIC, DIC, BIC)
-Model assumptions & checking them
-Using ‘predict’ to show regression results
-Random effect models (non-spatial models)
-Linear mixed effect models
-Generalized linear mixed effect models 
-Analysis of spatial data:
-Geostatistical data (do we include an additional Bayesian Hierarchical model section?)
-Point process 
-Lattice data
-Within each of these:
-Exploratory analysis
-Modelling fitting
-Prediction
-Making figures in R
-Outputting in high resolution (for journals)
-Maps
-Colour schemes
-Analysis of temporal data
-Time series
-Longitudinal
-Survival analysis
-Kaplan-Meier
-Cox regression
-Modelling zero-inflated data
-Bootstrapping
-Explanation of the concept
-Non-parametric (when to do, how and examples)
-Parametric (when to do, how and examples)
-Sample size calculations
-Bayesian Inference in Stan
-MCMC
-Hamiltonian MCMC
-Metropolis-Hasting MCMC
-Langevin-Hasting MCMC
-Probability distribution functions
-Deriving likelihood functions (tricks and examples)
-Computing
-Best practices in manipulating covariance/correlation matrices to enhance the speed and accuracy of matrix algebra
-Some useful matrix calculus and how to do them in R
-Simple tricks for computing derivatives of likelihood functions
-An introduction to machine learning methods: 
-Unsupervised vs Supervised learning, 
-Clustering
-Classifiers
-Tree based methods.
+ - Basic modelling
+    - Linear models
+    - Generalized linear models
+    - Model selection
+      - Diagnostic checks
+      - Criteria for model fitting
+      - Criteria for prediction (RMSE,...)
+      - Information Criterion (AIC, DIC, BIC)
+    - Model assumptions & checking them
+    - Using ‘predict’ to show regression results
+- Random effect models (non-spatial models)
+  - Linear mixed effect models
+  - Generalized linear mixed effect models 
+- Analysis of spatial data
+  - Geostatistical data (do we include an additional Bayesian Hierarchical model section?)
+    - Exploratory analysis
+    - Modelling fitting
+    - Prediction
+  - Point process
+     - Exploratory analysis
+    - Modelling fitting
+    - Prediction
+  - Lattice data
+     - Exploratory analysis
+    - Modelling fitting
+    - Prediction
+- Analysis of temporal data
+  - Time series
+  - Longitudinal
+  - Survival analysis
+    - Kaplan-Meier
+    - Cox regression
+- Modelling zero-inflated data
+- Bootstrapping
+  - Explanation of the concept
+  - Non-parametric (when to do, how and examples)
+  - Parametric (when to do, how and examples)
+- Sample size calculations
+- Bayesian Inference in Stan
+- MCMC
+  - Hamiltonian MCMC
+  - Metropolis-Hasting MCMC
+  - Langevin-Hasting MCMC
+- Probability distribution functions
+- Deriving likelihood functions (tricks and examples)
+- Computing
+  - Best practices in manipulating covariance/correlation matrices to enhance the speed and accuracy of matrix algebra
+  - Some useful matrix calculus and how to do them in R
+  - Simple tricks for computing derivatives of likelihood functions
+- An introduction to machine learning methods
+  - Unsupervised vs Supervised learning, 
+  - Clustering
+  - Classifiers
+  - Tree based methods.
+ 
 
 
-Useful resources
-Please add references to resources which you think are relevant and will be useful for this project:
-
-An example of accessible statistics is this YouTube channel called statquest. Although this is a different medium, some key things this channel does well in communicating complex concepts to a general audience are: 
-Easy language
-A lot of visual aids- graphs and images are always better than complicated maths or long sentences. 
-A good flow, i.e it’s important to link concepts in a way that flows naturally, taking care not to make assumptions about the audience’s knowledge. Don’t assume anything is ‘obvious’ or ‘intuitive’. 
-An example of a good guide for this project is this website explaining R for data scientists. This is a good model we could adapt for our purposes. 
+Generally useful resources:
+- YouTube channel 'statquest'. Although this is a different medium, some key things this channel does well in communicating complex concepts to a general audience are: 
+  - Easy language
+  - A lot of visual aids- graphs and images are always better than complicated maths or long sentences. 
+  - A good flow, i.e it’s important to link concepts in a way that flows naturally, taking care not to make assumptions about the audience’s knowledge. Don’t assume anything is ‘obvious’ or ‘intuitive’. 
+- A good example of how we should try to structure our contributions [here](https://r4ds.had.co.nz/introduction.html)
 
 
 ## Meetings notes
