@@ -10,11 +10,11 @@ Those interested in contributing can choose an existing topic or subsection or a
 - Steps for contributing a new topic can be found here
 - When pre-existing resources meet the criteria for inclusion, a new topic page should still be created and a link should be inserted on this page to guide the reader to the resource(s). If multiple resources are available, it would be useful for an introductory sentence or paragraph to be written to clearly explain their value to the reader.
 
-## Feedback/ideas
+## Feedback and ideas
 Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) and any topics that you feel would be useful to include, no matter how basic it may seem. You can do this by adding an issue using the 'Issues' tab. 
 
 ## Topics
-Please add any topics you think would be useful below by directly editing this page - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data. Please feel free to add topics to the list even if you don't wish to complete them. This way someone else can see all suggested and unanswered topics when they are choosing their next contribution. 
+Please add any topics you think would be useful below by directly editing this page - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data. Please feel free to add topics to the list even if you don't wish to complete them. This way someone else can see all suggested and unanswered topics when they are choosing their next contribution.
 
 - Using GitHub
   - Fork, commit and push
