@@ -7,7 +7,7 @@ To harness the collective knowledge and experience of CHICAS members on a wide r
 Those interested in contributing can choose an existing topic or subsection or add a new page for a new topic of their choice. Each summary should be as concise and clear as possible, taking the reader through key steps and any tricks or tools you use. If required, this can then be followed by an iterative and collaborative peer discussion process with the section being discussed in meetings or through comments made online. Additional suggestions or alternative approaches can then be included.
 
 ## Contributing to this project
-- Information about how to contribute content to this project can be found [here](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/creating-content.md)
+Information about how to contribute content to this project can be found [here](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/creating-content.md)
 
 ## Feedback and ideas
 Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) and any topics that you feel would be useful to include, no matter how basic it may seem. You can do this by adding an issue using the 'Issues' tab. 
