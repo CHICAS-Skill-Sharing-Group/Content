@@ -1,23 +1,24 @@
 # Crowdsourcing CHICAS expertise to provide practical guidance for data analysis
 
-## Aim
-To harness the collective knowledge and experience of CHICAS members on a wide range of different areas of data science to collaboratively create a practical resource which is easily understandable for “early career data scientists”* and provides an overview of best practices and important considerations when conducting a range of different analyses. The intention is that this will contain concise and practical explanations of key steps in data manipulation and analysis which will be written in clear and accessible language with R code and plots where possible. This resource focuses on practical guidance but a brief discussion of relevant theory or a reference to additional resources are encouraged when they aid in the justification of a certain approach. This project is motivated by three concerns of data science students: i) that the literature is often inaccessible and lacks a discussion of best practices, tricks and tools ii) at CHICAS we often end up focussing on innovative methods in specific areas and may not gain experience in a wide-range of areas; iii) that there is a wealth of practical experience within CHICAS which is currently untapped and not shared beyond discussions about specific topics within supervisions.
-*e.g. without a full degree in statistics
+## Aim & rationale
+To harness the collective knowledge and experience of CHICAS members on a wide range of different areas of data science to collaboratively create a practical resource which is easily understandable for “early career data scientists” (e.g. without a full degree in statistics) and provides an overview of best practices and important considerations when conducting a range of different analyses. The intention is that this will contain concise and practical explanations of key steps in data manipulation and analysis which will be written in clear and accessible language with R code and plots where possible. This resource focuses on practical guidance, but a brief discussion of relevant theory or a reference to additional resources are encouraged when they aid in the justification of a certain approach. This project is motivated by three concerns of data science students: i) there is a wealth of practical experience within CHICAS which is currently untapped and not shared beyond discussions about specific topics within supervision; ii) the language used in the data science literature is often inaccessible and lacks a discussion of best practices, tricks and tools; iii) at CHICAS we often end up focussing on innovative methods in specific areas and may not gain experience in a wide-range of areas.
 
 ## The writing process
-Those interested in contributing can choose a topic or subsection and write a skeleton/draft. Each subsection should be as concise and clear as possible, taking the reader through key steps and any tricks or tools you use. This can then be followed by an iterative and collaborative process with the section being discussed in meetings or through comments made online and additional suggestions or alternative approaches included.
+Those interested in contributing can choose an existing topic or subsection or add a new page for a new topic of their choice. Each summary should be as concise and clear as possible, taking the reader through key steps and any tricks or tools you use. If required, this can then be followed by an iterative and collaborative peer discussion process with the section being discussed in meetings or through comments made online. Additional suggestions or alternative approaches can then be included.
+
+When pre-existing resources meet the criteria for inclusion, a new topic page should still be created and a link should be inserted ont his page to guide the reader to the resource(s). If multiple resources are available, it would be useful for an introductory sentence or paragraph to be written to clearly explain their value to the reader.
 
 ## Feedback/ideas
-Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) and any topics that you feel would be useful to include, no matter how basic it may seem. You can do this by directly editing this page or by adding an issue using the 'Issues' tab.
+Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) and any topics that you feel would be useful to include, no matter how basic it may seem. You can do this by adding an issue using the 'Issues' tab. 
 
 ## Topics
-Please add any topics you think would be useful below - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data.
+Please add any topics you think would be useful below by directly editing this page - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data. Please feel free to add topics to the list even if you don't wish to complete them. This way someone else can see all suggested and unanswered topics when they are choosing their next contribution.
 
-Using Git/GitHub
-Using the HEC
-Mount HEC on computer
-Good practice in R
-Projects & version control
+- Using Git/GitHub
+- Using the HEC
+- Mount HEC on computer
+- Good practice in R
+-- Projects & version control
 Coding
 Reproducible workflow with R
 Exploratory analysis
