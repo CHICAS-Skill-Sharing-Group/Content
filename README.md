@@ -6,7 +6,7 @@ To harness the collective knowledge and experience of CHICAS members on a wide r
 ## The writing process
 Those interested in contributing can choose an existing topic or subsection or add a new page for a new topic of their choice. Each summary should be as concise and clear as possible, taking the reader through key steps and any tricks or tools you use. If required, this can then be followed by an iterative and collaborative peer discussion process with the section being discussed in meetings or through comments made online. Additional suggestions or alternative approaches can then be included.
 
-When pre-existing resources meet the criteria for inclusion, a new topic page should still be created and a link should be inserted ont his page to guide the reader to the resource(s). If multiple resources are available, it would be useful for an introductory sentence or paragraph to be written to clearly explain their value to the reader.
+When pre-existing resources meet the criteria for inclusion, a new topic page should still be created and a link should be inserted on this page to guide the reader to the resource(s). If multiple resources are available, it would be useful for an introductory sentence or paragraph to be written to clearly explain their value to the reader.
 
 ## Feedback/ideas
 Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) and any topics that you feel would be useful to include, no matter how basic it may seem. You can do this by adding an issue using the 'Issues' tab. 
@@ -16,12 +16,12 @@ Please add any topics you think would be useful below by directly editing this p
 
 - Using Git/GitHub
 - Using the HEC
-- Mount HEC on computer
++ Mount HEC on computer
 - Good practice in R
--- Projects & version control
-Coding
-Reproducible workflow with R
-Exploratory analysis
++ Projects & version control
++ Coding
++ Reproducible workflow with R
+- Exploratory analysis
 Visualizing data
 Plotting binary outcome data against continuous variables
 Summarize data
