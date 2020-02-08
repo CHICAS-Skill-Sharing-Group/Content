@@ -8,16 +8,19 @@ The HEC can be accessed through your terminal (Mac users) using the bash coding 
 ```cd``` - return to the uppermost directory level\
 ```cd -``` - navigate up one directory level\
 ```cd foldername``` - go to this folder in your current directory\
-```exit``` - close connection with the HEC
 
-### Connecting to the HEC
-```ssh -X your_lancaster_username@wayland.hec.lancaster.ac.uk```
+### Interacting with the HEC
+Connecting to the HEC\
+```ssh -X your_lancaster_username@wayland.hec.lancaster.ac.uk```\
 
-Putting files onto the HEC\
-```rsync --progress --partial -avz /Users/JoeBloggs/Documents/foldername username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/``` - upload 'foldername' onto your storage space on the HEC
+Putting files onto the HEC (upload 'hecfolder' onto your storage space on the HEC)\
+```rsync --progress --partial -avz /Users/JoeBloggs/Documents/hecfolder username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/```
 
-Downloading files from the HEC\
-```rsync --progress --partial -avz username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/hecfolder /Users/JoeBloggs/Documents/foldername``` - download 'hecfolder' into 'foldername' on your computer
+Downloading files from the HEC (download 'hecfolder' into 'foldername' on your computer)\
+```rsync --progress --partial -avz username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/hecfolder /Users/JoeBloggs/Documents/foldername```
+
+Close connection with the HEC\
+```exit``` 
 
 ### Deleting files or folders
 ```rm -r filename``` 
