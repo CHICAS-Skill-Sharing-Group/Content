@@ -35,3 +35,9 @@ Submit a task array of 10 tasks with job id 'taskname'\
 ```qstat``` - status of submitted jobs\
 ```qdel jobID``` - delete job with id = jobID\
 ```panquota``` - check the amount of memory you have used/have available on the HEC
+
+## Sample code for use with the HEC
+To run R code on the HEC you need to submit a job file (e.g. 001-Rcode.txt above) which tells the HEC to run your .R file. You also need some code in your .R file which can extract the job/task ID.
+
+- bash code for running a job
+- R code
