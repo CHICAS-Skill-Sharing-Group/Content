@@ -11,7 +11,7 @@ The HEC can be accessed through your terminal (Mac users) using the bash coding 
 
 ### Interacting with the HEC
 Connecting to the HEC\
-```ssh -X your_lancaster_username@wayland.hec.lancaster.ac.uk```\
+```ssh -X your_lancaster_username@wayland.hec.lancaster.ac.uk```
 
 Putting files onto the HEC (upload 'hecfolder' onto your storage space on the HEC)\
 ```rsync --progress --partial -avz /Users/JoeBloggs/Documents/hecfolder username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/```
@@ -26,11 +26,11 @@ Close connection with the HEC\
 ```rm -r filename``` 
 
 ### Submitting jobs
-```qsub -N taskname 001-Rcode.txt``` - submit a single job with job id 'taskname'\
-```qsub -t 1-10 -N tasks 001-Rcode.txt``` - submit a task array of 10 tasks with job id 'taskname'
+Submit a single job with job id 'taskname'\
+```qsub -N taskname 001-Rcode.txt```
+Submit a task array of 10 tasks with job id 'taskname'\
+```qsub -t 1-10 -N tasks 001-Rcode.txt```
 
 ```qstat``` - status of submitted jobs\
 ```qdel jobID``` - delete job with id = jobID\
 ```panquota``` - check the amount of memory you have used/have available on the HEC
-
-## Mounting the HEC on your computer
