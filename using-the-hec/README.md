@@ -6,6 +6,7 @@ The HEC can be accessed through your terminal (Mac users) using the bash coding 
 ```pwd``` - the directory path you are currently in \
 ```ls``` - view a list of files and folders are in this directory\
 ```cd``` - return to the uppermost directory level\
+```cd -``` - navigate up one directory level\
 ```cd foldername``` - go to this folder in your current directory\
 ```exit``` - close connection with the HEC
 
