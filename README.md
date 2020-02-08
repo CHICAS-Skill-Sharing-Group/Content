@@ -1,16 +1,18 @@
 # Crowdsourcing CHICAS expertise to provide practical guidance for data analysis
 
-## Aims and rationale
-To harness the collective knowledge and experience of CHICAS members on a wide range of different areas of data science to collaboratively create a practical resource which is easily understandable for “early career data scientists” (e.g. without a full degree in statistics) and provides an overview of best practices and important considerations when conducting a range of different analyses. The intention is that this will contain concise and practical explanations of key steps in data manipulation and analysis which will be written in clear and accessible language with R code and plots where possible. This resource focuses on practical guidance, but a brief discussion of relevant theory or a reference to additional resources are encouraged when they aid in the justification of a certain approach. This project is motivated by three concerns of data science students: i) there is a wealth of practical experience within CHICAS which is currently untapped and not shared beyond discussions about specific topics within supervision; ii) the language used in the data science literature is often inaccessible and lacks a discussion of best practices, tricks and tools; iii) at CHICAS we often end up focussing on innovative methods in specific areas and may not gain experience in a wide-range of areas.
+## Aim and rationale
+To bring together the collective knowledge and experience of CHICAS members on a wide range of different areas of data science to collaboratively create a practical resource which is easily understandable for “early career data scientists” (e.g. without a full degree in statistics). The intention is that this will contain concise and practical explanations of best practices, key steps, and tricks and tools for data manipulation and analysis which will be written in clear and accessible language with R code and plots where possible. This resource focuses on practical guidance, but a brief discussion of relevant theory or a reference to additional resources are encouraged when they aid in the justification of a certain approach. 
+
+This project is motivated by three concerns of data science students: i) there is a wealth of practical experience within CHICAS which is currently untapped and often not shared specific discussions in supervisions; ii) the language used in the data science literature is often inaccessible and lacks a discussion of best practices, tricks and tools; iii) at CHICAS students often end up focussing on innovative methods in specific areas and may not gain experience in a wide-range of areas - this project will provide us with a resource to expand our learning.
 
 ## The writing process
-Those interested in contributing can choose an existing topic or subsection or add a new page for a new topic of their choice. Each summary should be as concise and clear as possible, taking the reader through key steps and any tricks or tools you use. If required, this can then be followed by an iterative and collaborative peer discussion process with the section being discussed in meetings or through comments made online. Additional suggestions or alternative approaches can then be included.
+Those interested in contributing can either choose a topic on the list or add a new page for a new topic of their choice. Each summary should be as concise and clear as possible, taking the reader through important considerations, steps and any tricks or tools you use. It may sometimes be useful to discuss your summary with other members of CHICAS on the online 'Issues' section or through group meetings. Suggestions and summaries of alternative approaches are always welcome!
 
 ## Contributing to this project
 Information about how to contribute content to this project can be found [here](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/creating-content.md)
 
 ## Feedback and ideas
-Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) and any topics that you feel would be useful to include, no matter how basic it may seem. You can do this by adding an issue using the 'Issues' tab. 
+Please leave comments, criticisms and ideas about any aspects of the project (aims, writing process, topics, useful resources etc.) You can do this by adding an issue using the 'Issues' tab.
 
 ## Topics
 Please add any topics you think would be useful below by directly editing this page - they could be anything from the analysis of a specific type of data to a clever tool you have found for manipulating or displaying data. Please feel free to add topics to the list even if you don't wish to complete them. This way someone else can see all suggested and unanswered topics when they are choosing their next contribution.
@@ -98,8 +100,7 @@ Please add any topics you think would be useful below by directly editing this p
   - Tree based methods.
  
 
-
-Generally useful resources:
+## Generally useful external resources:
 - YouTube channel 'statquest'. Although this is a different medium, some key things this channel does well in communicating complex concepts to a general audience are: 
   - Easy language
   - A lot of visual aids- graphs and images are always better than complicated maths or long sentences. 
