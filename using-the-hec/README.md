@@ -30,7 +30,7 @@ Submit a single job with job id 'taskname'\
 ```qsub -N taskname 001-Rcode.txt```
 
 Submit a task array of 10 tasks with job id 'taskname'\
-```qsub -t 1-10 -N tasks 001-Rcode.txt```
+```qsub -t 1-10 -N taskname 001-Rcode.txt```
 
 ```qstat``` - status of submitted jobs\
 ```qdel jobID``` - delete job with id = jobID\
