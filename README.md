@@ -26,9 +26,9 @@ Please add any topics you think would be useful below by directly editing this p
   - Projects & version control
   - Reproducible workflow with R
   - Coding
-  - Figures
-    - Tricks for figures in R
-    - Outputting in high resolution (for journals)
+- [Figures in R](https://github.com/CHICAS-Skill-Sharing-Group/Content/tree/master/figures-in-R)
+    - [Easy visualisation](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/figures-in-R/easy-visualisation.md)
+    - How to output in high resolution
     - Maps
     - Colour schemes
 - Exploratory analysis
