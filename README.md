@@ -26,7 +26,8 @@ Please add any topics you think would be useful below by directly editing this p
   - Projects & version control
   - Reproducible workflow with R
   - Coding
-  - Making figures in R
+  - Figures
+    - Tricks for figures in R
     - Outputting in high resolution (for journals)
     - Maps
     - Colour schemes
