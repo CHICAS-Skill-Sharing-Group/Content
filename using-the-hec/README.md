@@ -37,8 +37,8 @@ Submit a task array of 10 tasks with job id 'taskname'\
 ```panquota``` - check the amount of memory you have used/have available on the HEC
 
 ### Install a missing R package in your HEC session
-```module add R/3.6.0``` - specify the R version you are using
-```install.packages(INLA)``` - specify the package you need to install, e.g INLA
+```module add R/3.6.0``` - specify the R version you are using\
+```install.packages(INLA)``` - specify the package you need to install, e.g INLA\
 ```library(INLA)```
 
 ## Sample code for use with the HEC
