@@ -32,9 +32,10 @@ Please add any topics you think would be useful below by directly editing this p
     - Maps
     - Colour schemes
 - Exploratory analysis
-  - Visualizing data
-  - Plotting binary outcome data against continuous variables
-  -Summarising data
+  - Summarising data
+    - Tables
+    - Graphically
+      - Plotting binary outcome data against continuous variables
   - Manipulating spatial data (maybe update Barry’s cheatsheet with sf?)
   - Transforming data (when do you do it, and why?)
   - Generalized additive models
