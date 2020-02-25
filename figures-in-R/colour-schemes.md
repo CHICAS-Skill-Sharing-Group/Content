@@ -1,3 +1,3 @@
 # Colour Schemes
 
-- [Different schemes for ggplot](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
+- [ggplot2 - useful code and wide range of colour schemes](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
