@@ -21,7 +21,7 @@ Please add any topics you think would be useful below by directly editing this p
   - [Creating a new file or folder](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/creating-file-or-folder.md)
   - [How to contribute content to this project](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/creating-content.md)
   - [Fork, commit, push and pull](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/Using-github/Fork-commit-push.md)
-- [Using the HEC](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/using-the-hec/README.md)
+- [Using the HEC](https://github.com/CHICAS-Skill-Sharing-Group/Content/blob/master/using-the-hec/README.md) 
 - Good practice in R
   - Projects & version control
   - Reproducible workflow with R
