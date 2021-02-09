@@ -1,5 +1,5 @@
 # Using the HEC
-The HEC can be accessed through your terminal (Mac users) using the bash coding language.
+The HEC can be accessed through your terminal (Mac users) using the bash coding language. 
 
 Two great resources created by Barry are [this](https://b-rowlingson.gitlab.io/hec-template/) and template files and folders are [here](https://gitlab.com/b-rowlingson/hec-template/-/tree/master).
 
