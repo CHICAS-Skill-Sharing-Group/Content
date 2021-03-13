@@ -83,6 +83,8 @@ Please add any topics you think would be useful below by directly editing this p
   - Explanation of the concept
   - Non-parametric
   - Parametric
+- [Multiple imputation]()
+  - Propagating uncertainty in predictor with measurement error
 - Sample size calculations
 - Bayesian Inference in Stan
 - MCMC
