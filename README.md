@@ -1,4 +1,4 @@
-# Crowdsourcing CHICAS expertise to provide practical guidance for data analysis
+# Crowdsourcing CHICAS expertise to provide practical guidance for data analysis 
 
 ## Aim and rationale
 To bring together the collective knowledge and experience of CHICAS members on a wide range of different areas of data science to collaboratively create a practical resource which is easily understandable for “early career data scientists” (e.g. without a full degree in statistics). The intention is that this will contain concise and practical explanations of best practices, key steps, and tricks and tools for data management, manipulation and analysis, written in clear and accessible language with R code and plots. This resource focuses on practical guidance, but a brief discussion of relevant theory or a reference to additional resources are encouraged when they aid in the justification of a certain approach. 
