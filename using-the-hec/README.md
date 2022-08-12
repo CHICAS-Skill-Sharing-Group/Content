@@ -40,6 +40,7 @@ Submit a task array of 10 tasks with job id 'taskname'\
 
 ### Install a missing R package in your HEC session
 ```module add R/3.6.0``` - specify the R version you are using\
+```R``` - load the R shell\
 ```install.packages(INLA)``` - specify the package you need to install, e.g INLA\
 ```library(INLA)```
 
