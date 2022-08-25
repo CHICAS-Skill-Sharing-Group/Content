@@ -38,7 +38,8 @@ Submit a task array of 10 tasks with job id 'taskname'\
 
 ```qstat``` - status of submitted jobs\
 ```qdel jobID``` - delete job with id = jobID\
-```panquota``` - check the amount of memory you have used/have available on the HEC
+```qdel jobID.1:5``` - delete tasks 1-5 for job with id = jobID\
+```gpfsquota``` - check the amount of memory you have used/have available on the HEC
 
 ### Install a missing R package in your HEC session
 ```module add R/3.6.0``` - specify the R version you are using\
