@@ -21,6 +21,8 @@ Putting files onto the HEC (upload 'hecfolder' onto your storage space on the HE
 Downloading files from the HEC (download 'hecfolder' into 'foldername' on your computer)\
 ```rsync --progress --partial -avz username@wayland.hec.lancs.ac.uk:/home/hpc/41/username/hecfolder /Users/JoeBloggs/Documents/foldername```
 
+*Please see the section below about adding a Symlink - once you have done this you will want to change your filepath for file storage to the 'storage' or 'scratch' folders for intensive jobs that require more than 10GB of storage.*
+
 Close connection with the HEC\
 ```exit``` 
 
