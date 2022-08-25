@@ -44,9 +44,17 @@ Submit a task array of 10 tasks with job id 'taskname'\
 ```install.packages(INLA)``` - specify the package you need to install, e.g INLA\
 ```library(INLA)```
 
-## Sample code for use with the HEC
+### Sample code for use with the HEC
 To run R code on the HEC you need to submit a job file (e.g. 001-Rcode.txt above) which tells the HEC to run your .R file. You also need some code in your .R file which can extract the job/task ID, load data and save results on the HEC.
 
 Examples
 - bash code for running a single job (add link) or task array (add link)
 - R code for a single job (add link) or task array (add link)
+
+### Add a Symlink to your storage and scratch folders
+On the HEC you have three areas you can store data: home (10GB), storage (100GB) and scratch (1000GB, but deletes every 4 weeks). When you log in to the HEC your current directory is the home folder. To be able to easily use the storage and scratch folders you need to create a Symlink to these folders in your home folder. Do this with the following steps:
+1. Log into the HEC
+2. Enter ```pwd``` to see your current pathname and make a note of the number (XX) in /home/hpc/XX/username
+3. Enter ```ln -s /storage/hpc/XX/username storage``` with ```XX``` replaced by the number identified in the previous step and ```username``` replaced by your HEC log-in username.
+4. Enter ```ln -s /scratch/hpc/XX/username scratch``` with ```XX``` replaced by the number identified in the previous step and ```username``` replaced by your HEC log-in username.
+5. You can now access these folders like any normal folder via your home directory.
